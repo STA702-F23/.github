@@ -1,1 +1,1 @@
-# Welcome to STA702!
+.github
